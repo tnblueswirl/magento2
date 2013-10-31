@@ -10,6 +10,7 @@ atlassian*
 /sitemap
 /.htaccess.orig
 /.idea
+/.modman
 /.gitattributes
 /app/config_sandbox
 /app/etc/local.xml
@@ -34,3 +35,5 @@ atlassian*
 !/pub/static/.htaccess
 /var/*
 /app/code/Magento/TestModule*
+/app/code/Bronto
+/app/design/adminhtml/magento_backend/Bronto_Common
